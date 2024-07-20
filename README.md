@@ -1,2 +1,2 @@
 # ChaoticLearning
-Escaping tutorial hell
+Getting better at learning.
