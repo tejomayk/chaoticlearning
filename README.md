@@ -1,2 +1,0 @@
-# ChaoticLearning
-Escaping tutorial hell
